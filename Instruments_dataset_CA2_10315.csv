@@ -1,0 +1,112 @@
+Instrument ID,Model Name/Number,Instrument Type,Brand,Year Manufactured,Material,Price (INR),Condition,Country of Origin,Weight (kg),String Count,Reviews,Electrical or Not,Units Sold
+1001,Stratocaster 2023,Electric Guitar,Fender,2023,Alder Wood,"98,999",New,USA,3.5,6,4.8/5,Yes,320
+1002,D-28,Acoustic Guitar,Martin,2021,Rosewood,"2,22,000",New,USA,2.2,6,4.9/5,No,80
+1003,YDP-144 Arius,Digital Piano,Yamaha,2022,Synthetic Ivory,"90,000",New,Japan,38,N/A,4.7/5,Yes,450
+1004,Sitar Classic,Sitar,Radha Krishna,2020,Teak Wood,"35,000",New,India,5.5,7,4.6/5,No,200
+1005,TR-909,Drum Machine,Roland,2017,Plastic,"2,08,000",Used,Japan,6.5,N/A,4.5/5,Yes,70
+1006,SG Standard '61,Electric Guitar,Gibson,2023,Mahogany,"1,50,000",New,USA,3.2,6,4.7/5,Yes,75
+1007,KX500MS,Bass Guitar,Cort,2023,Mahogany,"72,000",New,Korea,4.5,5,4.6/5,Yes,40
+1008,C1 Air,Digital Piano,Korg,2022,Synthetic Ivory,"95,000",New,Japan,37,N/A,4.5/5,Yes,60
+1009,Tabla Set,Tabla,Goyal,2022,Wood and Metal,"12,000",New,India,10,N/A,4.8/5,No,300
+1010,Ibanez GA3,Classical Guitar,Ibanez,2021,Spruce,"10,000",New,China,2.2,6,4.6/5,No,20
+1011,Tanpura Professional,Tanpura,Miraj,2021,Teak Wood,"15,000",New,India,2.8,4,4.7/5,No,100
+1012,Les Paul Standard,Electric Guitar,Gibson,2022,Mahogany,"2,30,000",New,USA,4.1,6,4.8/5,Yes,90
+1013,PX-S1000,Digital Piano,Casio,2021,Synthetic Ivory,"65,000",New,Japan,11.2,N/A,4.6/5,Yes,80
+1014,Pakhawaj Classic,Pakhawaj,Guru Kirtan,2020,Wood and Leather,"18,000",New,India,9,N/A,4.5/5,No,110
+1015,S670QM,Electric Guitar,Ibanez,2023,Quilted Maple,"65,000",New,Indonesia,3,6,4.7/5,Yes,70
+1016,D-18,Acoustic Guitar,Martin,2019,Mahogany,"1,85,000",Used,USA,2,6,4.8/5,No,100
+1017,MM StingRay5,Bass Guitar,Music Man,2020,Ash Wood,"1,95,000",New,USA,4.6,5,4.8/5,Yes,95
+1018,Rudra Veena,Veena,Sangeet Samrat,2018,Jackwood,"50,000",New,India,6,7,4.9/5,No,85
+1019,SG Tribute,Electric Guitar,Gibson,2022,Mahogany,"1,10,000",New,USA,3.5,6,4.6/5,Yes,65
+1020,Mridangam,Mridangam,Kottakkal,2019,Jackwood,"20,000",Used,India,8,N/A,4.6/5,No,100
+1021,Rickenbacker 4003,Bass Guitar,Rickenbacker,2021,Maple,"2,45,000",New,USA,4.3,4,4.7/5,Yes,140
+1022,Kora 21 Strings,Kora,Artisan Craft,2020,Wood and Nylon,"85,000",New,Mali,2.7,21,4.5/5,No,130
+1023,TX-5 Groove,Synthesizer,Korg,2021,Plastic,"75,000",New,Japan,3.2,N/A,4.7/5,Yes,200
+1024,Ramirez 4E,Classical Guitar,Ramirez,2007,Cedar and Rosewood,"1,50,000",Used,Spain,1.8,6,4.9/5,No,45
+1025,Dholak Pro,Dholak,Goyal,2023,Mango Wood,"7,500",New,India,4.5,N/A,4.8/5,No,55
+1026,Ibanez Artwood AW54,Acoustic Guitar,Ibanez,2021,Mahogany,"25,000",New,Indonesia,2.3,6,4.6/5,No,35
+1027,Les Paul Special II,Electric Guitar,Epiphone,2022,Mahogany,"30,000",New,USA,4,6,4.5/5,Yes,90
+1028,Sarod Premium,Sarod,Monoj Kumar,2021,Tun Wood,"60,000",New,India,5.8,19,4.7/5,No,260
+1029,Nord Stage 3,Stage Piano,Nord,2022,Plastic and Metal,"3,75,000",New,Sweden,19,N/A,4.9/5,Yes,70
+1030,SG Custom,Electric Guitar,Gibson,2022,Mahogany,"2,10,000",New,USA,3.9,6,4.8/5,Yes,110
+1031,Bamboo Flute C,Flute,Punam Flutes,2020,Bamboo,"1,500",New,India,0.15,N/A,4.9/5,No,80
+1032,PRS SE Custom 24,Electric Guitar,PRS,2021,Maple and Mahogany,"85,000",Used,USA,3.5,6,4.7/5,Yes,90
+1033,Kawai ES110,Digital Piano,Kawai,2022,Plastic,"70,000",New,Japan,12,N/A,4.7/5,Yes,200
+1034,Bouzouki 8-String,Bouzouki,Thomann,2021,Maple,"40,000",New,Greece,1.8,8,4.6/5,No,150
+1035,Music Man StingRay 4,Bass Guitar,Music Man,2020,Ash Wood,"2,00,000",New,USA,4.5,4,4.8/5,Yes,180
+1036,Kanai Lal Harmonium,Harmonium,Kanai Lal,2019,Wood and Metal,"25,000",New,India,8,N/A,4.7/5,No,60
+1037,Bansuri Flute F#,Flute,Radha Krishna,2020,Bamboo,"1,200",New,India,0.13,N/A,4.9/5,No,70
+1038,Seagull S6 Original,Acoustic Guitar,Seagull,2022,Cedar and Maple,"35,000",New,Canada,2.2,6,4.8/5,No,85
+1039,Moog Sub 37,Synthesizer,Moog,2021,Plastic and Metal,"1,85,000",New,USA,8,N/A,4.9/5,Yes,130
+1040,Indian Veena,Veena,Saraswati,2020,Jackwood,"40,000",New,India,5,7,4.8/5,No,150
+1041,Takamine GC1,Classical Guitar,Takamine,2022,Spruce,"20,000",New,China,2.3,6,4.7/5,No,75
+1042,Taylor 214ce,Acoustic Guitar,Taylor,2022,Rosewood,"1,20,000",New,USA,2.5,6,4.9/5,No,55
+1043,Premier Concert Flute,Flute,Premier,2021,Nickel Silver,"25,000",New,USA,0.5,N/A,4.8/5,No,95
+1044,Ibanez GSRM20,Bass Guitar,Ibanez,2023,Agathis,"20,000",New,Indonesia,3,4,4.6/5,Yes,50
+1045,Tabla Set (Rosewood),Tabla,Sangeet Mahal,2021,Rosewood,"10,000",New,India,8.5,N/A,4.8/5,No,100
+1046,Gibson J-45 Standard,Acoustic Guitar,Gibson,2021,Mahogany,"1,85,000",New,USA,2.2,6,4.8/5,No,120
+1047,Ernie Ball Music Man,Electric Guitar,Ernie Ball,2022,Basswood,"1,50,000",New,USA,3.6,6,4.7/5,Yes,40
+1048,Korg Kronos 2,Workstation,Korg,2023,Plastic and Metal,"3,50,000",New,Japan,17,N/A,4.9/5,Yes,110
+1049,Vintage V100,Electric Guitar,Vintage,2021,Mahogany,"40,000",New,UK,4,6,4.5/5,Yes,70
+1050,Shure SM58,Microphone,Shure,2021,Metal,"8,000",New,Mexico,0.3,N/A,4.9/5,Yes,90
+1051,Handpan D Minor,Handpan,Ayasa,2022,Steel,"1,00,000",New,India,4.5,N/A,4.8/5,No,80
+1052,ESP LTD EC-1000,Electric Guitar,ESP,2023,Mahogany,"85,000",New,USA,3.8,6,4.7/5,Yes,150
+1053,Alesis Nitro Mesh Kit,Electronic Drum,Alesis,2021,Mesh and Metal,"60,000",New,USA,12.5,N/A,4.8/5,Yes,60
+1054,Ibanez SR305E,Bass Guitar,Ibanez,2022,Mahogany,"50,000",New,Indonesia,4.2,5,4.7/5,Yes,20
+1055,Casio CT-S300,Keyboard,Casio,2022,Plastic,"15,000",New,Japan,4,N/A,4.6/5,Yes,130
+1056,Washburn WD7S,Acoustic Guitar,Washburn,2021,Solid Spruce,"28,000",New,USA,2.3,6,4.6/5,No,40
+1057,Kanjira,Percussion,Taal Tarang,2021,Wood and Skin,"2,500",New,India,1.2,N/A,4.7/5,No,95
+1058,B.C. Rich Warlock,Electric Guitar,B.C. Rich,2022,Mahogany,"75,000",New,USA,3.8,6,4.6/5,Yes,70
+1059,Yamaha Revstar RS502T,Electric Guitar,Yamaha,2023,Mahogany,"85,000",New,Japan,3.3,6,4.8/5,Yes,50
+1060,Premier Hand Drum,Percussion,Premier,2022,Wood and Skin,"20,000",New,UK,3.2,N/A,4.7/5,No,90
+1061,Fender Mustang LT25,Amplifier,Fender,2022,Metal and Wood,"15,000",New,USA,7.5,N/A,4.8/5,Yes,100
+1062,Ibanez AW54CE,Acoustic Guitar,Ibanez,2021,Mahogany,"30,000",New,Indonesia,2.5,6,4.7/5,No,80
+1063,Korg Minilogue XD,Synthesizer,Korg,2022,Plastic,"65,000",New,Japan,2.8,N/A,4.9/5,Yes,70
+1064,Gibson SG Junior,Electric Guitar,Gibson,2021,Mahogany,"1,10,000",New,USA,3.2,6,4.7/5,Yes,150
+1065,Yamaha F310,Acoustic Guitar,Yamaha,2021,Spruce,"15,000",New,Indonesia,2.3,6,4.6/5,No,15
+1066,Casio PX-160,Digital Piano,Casio,2021,Plastic,"45,000",New,Japan,11.5,N/A,4.8/5,Yes,55
+1067,Fender FA-125,Acoustic Guitar,Fender,2022,Spruce,"18,000",New,China,2,6,4.5/5,No,75
+1068,Ibanez RG550,Electric Guitar,Ibanez,2023,Basswood,"75,000",New,Indonesia,3.5,6,4.7/5,Yes,90
+1069,Native American Flute,Flute,High Spirits,2021,Cedar,"5,000",New,USA,0.2,N/A,4.8/5,No,100
+1070,Indian Tabla Set,Tabla,Radha Krishna,2020,Rosewood,"15,000",New,India,8.5,N/A,4.8/5,No,80
+1071,Gretsch G2622,Electric Guitar,Gretsch,2022,Maple,"50,000",New,Korea,3.8,6,4.7/5,Yes,250
+1072,Cordoba C3M,Classical Guitar,Cordoba,2022,Cedar,"25,000",New,China,1.5,6,4.8/5,No,60
+1073,Sitar Pro,Sitar,Radha Krishna,2021,Tun Wood,"30,000",New,India,4.5,7,4.7/5,No,85
+1074,Ibanez SR505E,Bass Guitar,Ibanez,2022,Mahogany,"70,000",New,Indonesia,4.5,5,4.7/5,Yes,120
+1075,Yamaha PSR-E373,Keyboard,Yamaha,2021,Plastic,"18,000",New,Japan,4,N/A,4.7/5,Yes,100
+1076,Chapman ML1 Pro,Electric Guitar,Chapman,2022,Mahogany,"65,000",New,UK,3.5,6,4.6/5,Yes,30
+1077,Steinway Model D,Grand Piano,Steinway & Sons,2020,Wood and Metal,"60,00,000",New,Germany,400,N/A,4.9/5,No,15
+1078,Fender CD-60S,Acoustic Guitar,Fender,2021,Spruce,"20,000",New,Indonesia,2,6,4.7/5,No,140
+1079,Native Instruments,DJ Controller,Native Instruments,2022,Plastic,"35,000",New,Germany,2.5,N/A,4.8/5,Yes,55
+1080,Ibanez GRG121DX,Electric Guitar,Ibanez,2022,Poplar,"22,000",New,Indonesia,3.2,6,4.6/5,Yes,180
+1081,Yamaha P-125,Digital Piano,Yamaha,2022,Plastic,"50,000",New,Japan,11.8,N/A,4.7/5,Yes,50
+1082,Gretsch G2420T,Electric Guitar,Gretsch,2022,Maple,"55,000",New,Korea,4.2,6,4.7/5,Yes,150
+1083,Yamaha CG122MS,Classical Guitar,Yamaha,2021,Spruce,"15,000",New,Indonesia,2.1,6,4.7/5,No,50
+1084,Schecter Omen-6,Electric Guitar,Schecter,2022,Basswood,"45,000",New,Korea,3.6,6,4.6/5,Yes,60
+1085,Fender Player Jazz,Bass Guitar,Fender,2022,Alder,"75,000",New,USA,4.5,4,4.8/5,Yes,75
+1086,Ibanez SR500E,Bass Guitar,Ibanez,2021,Mahogany,"60,000",New,Indonesia,4.3,5,4.7/5,Yes,60
+1087,Dean ML 79,Electric Guitar,Dean,2022,Mahogany,"50,000",New,USA,3.9,6,4.6/5,Yes,50
+1088,Yamaha F370,Acoustic Guitar,Yamaha,2021,Spruce,"14,000",New,Indonesia,2.1,6,4.7/5,No,20
+1089,DW Collector’s Series,Drum Set,DW,2022,Maple,"4,50,000",New,USA,35,N/A,4.9/5,Yes,70
+1090,PRS SE Mark Holcomb,Electric Guitar,PRS,2022,Maple and Mahogany,"90,000",New,USA,3.5,6,4.8/5,Yes,90
+1091,Taylor GS Mini,Acoustic Guitar,Taylor,2021,Mahogany,"50,000",New,Mexico,1.9,6,4.8/5,No,50
+1092,Fender Mustang Bass,Bass Guitar,Fender,2022,Alder,"65,000",New,USA,4,4,4.7/5,Yes,65
+1093,Yamaha FG800,Acoustic Guitar,Yamaha,2021,Spruce,"18,000",New,Indonesia,2.3,6,4.7/5,No,15
+1094,Alhambra 3C,Classical Guitar,Alhambra,2021,Cedar,"40,000",New,Spain,1.8,6,4.8/5,No,45
+1095,Ibanez Talman TMB100,Bass Guitar,Ibanez,2022,Poplar,"22,000",New,Indonesia,3.9,4,4.6/5,Yes,22
+1096,Squier Affinity Strat,Electric Guitar,Squier,2022,Poplar,"20,000",Used,China,3.5,6,4.5/5,Yes,40
+1097,Fender FA-235E,Acoustic Guitar,Fender,2021,Mahogany,"25,000",New,Indonesia,2.2,6,4.6/5,No,75
+1098,Ibanez AS73G,Electric Guitar,Ibanez,2022,Linden,"55,000",New,Indonesia,3.8,6,4.7/5,Yes,90
+1099,Yamaha PSR-E463,Keyboard,Yamaha,2021,Plastic,"20,000",New,Japan,4.2,N/A,4.7/5,Yes,100
+1100,Yamaha TRBX304,Bass Guitar,Yamaha,2021,Mahogany,"40,000",New,Indonesia,4.3,4,4.7/5,Yes,40
+1101,Fender American Pro,Electric Guitar,Fender,2022,Alder,"1,80,000",New,USA,3.7,6,4.8/5,Yes,70
+1102,Kremona Soloist S65C,Classical Guitar,Kremona,2022,Cedar,"30,000",New,Bulgaria,1.9,6,4.7/5,No,30
+1103,Epiphone DR-100,Acoustic Guitar,Epiphone,2021,Spruce,"15,000",New,China,2.2,6,4.6/5,No,15
+1104,Kala KA-15S,Ukulele,Kala,2022,Mahogany,"12,000",New,Indonesia,0.6,4,4.7/5,No,20
+1105,Fender Acoustasonic,Acoustic Guitar,Fender,2022,Spruce and Maple,"1,75,000",New,USA,2.4,6,4.8/5,Yes,70
+1106,Ibanez GRX40,Electric Guitar,Ibanez,2022,Poplar,"15,000",New,Indonesia,3.5,6,4.6/5,Yes,30
+1107,Pearl Export EXX,Drum Set,Pearl,2021,Poplar,"85,000",New,Taiwan,27,N/A,4.7/5,Yes,60
+1108,Cordoba C5,Classical Guitar,Cordoba,2022,Cedar,"22,000",New,China,1.8,6,4.8/5,No,30
+1109,Harmonium Classic,Harmonium,Bina,2021,Wood and Metal,"20,000",New,India,8,N/A,4.7/5,No,20
+1110,Jackson JS22 Dinky,Electric Guitar,Jackson,2022,Poplar,"30,000",Used,China,3.4,6,4.5/5,Yes,30
+1111,Yamaha C40,Classical Guitar,Yamaha,2021,Spruce,"12,000",New,Indonesia,2,6,4.7/5,No,30
